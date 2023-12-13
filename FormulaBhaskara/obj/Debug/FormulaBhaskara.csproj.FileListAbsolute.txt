@@ -1,0 +1,7 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\FormulaBhaskara\FormulaBhaskara\bin\Debug\FormulaBhaskara.exe.config
+C:\Users\3674532\Documents\CURSOS\C#\projetos\FormulaBhaskara\FormulaBhaskara\bin\Debug\FormulaBhaskara.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\FormulaBhaskara\FormulaBhaskara\bin\Debug\FormulaBhaskara.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\FormulaBhaskara\FormulaBhaskara\obj\Debug\FormulaBhaskara.csproj.AssemblyReference.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\FormulaBhaskara\FormulaBhaskara\obj\Debug\FormulaBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\FormulaBhaskara\FormulaBhaskara\obj\Debug\FormulaBhaskara.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\FormulaBhaskara\FormulaBhaskara\obj\Debug\FormulaBhaskara.pdb
